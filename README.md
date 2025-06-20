@@ -1,6 +1,6 @@
 # Blessing Sithole - Personal Portfolio
 
-A modern, responsive personal portfolio website showcasing my experience as a Backend Engineer with expertise in Java and Spring Boot development.
+A modern, responsive personal portfolio website showcasing my experience as a Software Engineer with expertise in Java and Spring Boot development.
 
 ## 🚀 Features
 
